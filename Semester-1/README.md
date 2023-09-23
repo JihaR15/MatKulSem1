@@ -1,5 +1,8 @@
 # Semester 1 - Jadwal Perkuliahan
 
+Link Materi : https://drive.google.com/drive/folders/19DwdvkF4evhMaGC57nRkfrXr-lYpGfBZ?usp=drive_link <br>
+Link Tugas (Private) : https://drive.google.com/drive/folders/1-5NHf0bctE1ihyzTXKTxy0OTXy2FfF9F?usp=drive_link
+
 | NO | HARI  | JAM           | KODE RUANG| MATA KULIAH                          | DOSEN                               |
 |----|-------|---------------|-----------|--------------------------------------|-------------------------------------|
 | 1  | Senin | 07:00 - 09:15 | RT05_5B   | Matematika Dasar                     | Erfan Rohadi, S.T., M.Eng., Ph.D.   |
