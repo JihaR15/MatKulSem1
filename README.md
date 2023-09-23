@@ -15,7 +15,7 @@ Selamat datang di repository saya! Di sini, saya akan membagikan semua materi ku
 
 Repository ini berisi catatan kuliah, slide presentasi, link ke sumber belajar tambahan, dan berbagai sumber daya lainnya yang berkaitan dengan mata kuliah yang saya ambil.
 
-## Lisensi
+### Lisensi
 
 Semua materi di repository ini berasal dari Learning Management System yang ada di kampus saya
 
